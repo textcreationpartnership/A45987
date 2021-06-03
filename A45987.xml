@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Idea democratica, or, A common-weal platform</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45987</idno><idno type="EEBO-CITATION">12815309</idno>
+  <idno type="VID">94133</idno>
+  <idno type="EEBO-PROQUEST">2248533031</idno>
+  
+            <idno type="STC">Wing I32</idno>
+            <idno type="STC">ESTC R7723</idno>
+            <idno type="OCLC">12815309</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 385:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Idea democratica, or, A common-weal platform</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Representative government and representation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94133:1"/>
+            <p>
+               <hi>IDEA DEMOCRATICA,</hi> OR A COMMON-WEAL PLATFORM.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho, Leach,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94133:2"/>
+            <pb n="1" facs="tcp:94133:2"/>
+            <head>
+               <hi>Idea Democratica</hi> OR A Common-weal Platform.</head>
+            <p n="1">I. THat only Counties, Cities, and great Towns, choose Representatives according to a just pro<g ref="char:EOLhyphen"/>portion.</p>
+            <p n="2">II. That every Elector be 21 years of age, having ten pounds <hi>per annum</hi> in Lands, or 200 <hi>l.</hi> in Goods.</p>
+            <p n="3">III. That the Elected be men fearing God, of good life and Conversation, not under 30. years of age, and otherwise qualified as shall be thought fit.</p>
+            <p n="4">IV. That every Parliament be Biennial, and sit six months, and then adjourn and not dissolve, that so
+<pb n="2" facs="tcp:94133:3"/>there may be a Major power alwayes in being to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rb and check all attempts of alteration of Government that shall be made in the interval of Sitting, either by the Senate or Counsel of State hereafter proposed.</p>
+            <p n="5">V. That every Representative at their first meeting, choose out of themselves a Senate co-ordinate in power during the six months Session, but have no Negative upon the Parliament, nor yet be deprived of their Vote; which may be effected by adding their Affirmative and Negative Votes in passing any Bill, to the Affirma<g ref="char:EOLhyphen"/>tives and Negatives of the Commons House, that so the Bill may passe or be cast out by the Votes of both, by which means Laws will come forth more perfect and better digested.</p>
+            <p n="6">VI. That no Member of Parliament or Senate bear any Office in the Commonwealth during the time he is a Member of Parliament or Senate, because to be su<g ref="char:EOLhyphen"/>pream in one Capacity, and subject and subordinate in another, is incongruous. And in every Parliament let a new Senate be chosen to continue untill the next Parliament, that so there may be a Rotation, and all men tast as well of Subjection as Rule.</p>
+            <p n="7">VII. That the Senate do sit in the 18 months interval of Parliamentary Session as a Court of Judicature to
+<pb n="3" facs="tcp:94133:3"/>hear and determine all Complaints of the People a<g ref="char:EOLhyphen"/>gainst all great Officers of State, Judges and other Officers of the Nation, in reference to the execution of their places, with power to fine and remove upon just proof of corruption or other misdemeanour, and to place others in their rooms to be confirmed in the suc<g ref="char:EOLhyphen"/>ceeding Parliament, or by the present Parliament, in case they shall again convene in the 18 months In<g ref="char:EOLhyphen"/>terval.</p>
+            <p n="8">VIII. That in all cases of Errour in Judgement made by the Senate, an Appeal lye only to the succeeding Par<g ref="char:EOLhyphen"/>liament, or to the present Parliament again conve<g ref="char:EOLhyphen"/>ning.</p>
+            <p n="9">IX. That the Senate of the Proceeding Parliament send a warrant to the Commissioners of the Great Seal for issuing forth writs of Election three months before the meeting of the next Parliament, And if the Senate shall fail in sending out a Warrant, that then the Commissioners without Warrant within 7. dayes issue forth writs of Election; And if the Commissioners shall fail of their duty, that then the respective Sheriffs do within one fortnight issue forth writs, upon pain of High Treason, And if none of them shall send out writs, that then it be enacted that the Electors of every County, City, and Town, shall every two years meet at a certain day and place to make their Election for the succeeding Biennial.</p>
+            <pb n="4" facs="tcp:94133:4"/>
+            <p n="10">X. That the Election and Return by the Sheriff be within convenient time, and sent up to the Senate impowred to Judge of the Election, and if they shall have good cause to question the same, that then a Sum<g ref="char:EOLhyphen"/>mons go from the Senate to the people of that Coun<g ref="char:EOLhyphen"/>ty, City or Town, commanding them at a certain day to send a certain number of persons to make good their Election, and if upon hearing it be adjudged a<g ref="char:EOLhyphen"/>gainst them, then let the Senate settle it where it ought to be setled, otherwise let a writ issue forth for a new Election.</p>
+            <p n="11">XI. That there be a Counsel of State consisting of Per<g ref="char:EOLhyphen"/>sons distinct from the Senate, to mannage all Affairs of State both domestique and forein, and that in eve<g ref="char:EOLhyphen"/>ry Parliament one half of the number of the Counsel of State be taken out of the same, and others added by the Parliament, that so there may be an honest, pru<g ref="char:EOLhyphen"/>dent, and experienced Counsel, and yet a Rotation there as well as in the Senate, which will be a means' to keep up Integrity and Sincerity, and to suppresse Ambition and Corruption.</p>
+            <p n="12">XII. That the Counsel of State nominate all Officers of the Common-wealth, and present them during Par<g ref="char:EOLhyphen"/>liament to be confirmed there, and in the Interval of Parliamentary Session, that care be taken by them to sup<g ref="char:EOLhyphen"/>ply
+<pb n="5" facs="tcp:94133:4"/>vacant places with honest, well affected and able persons, to be approved of in the succeeding Biennial, or present Parliament convening; by this means the Senate being Judges of the miscarriages of persons put in by the Counsel, great care will be taken that Of<g ref="char:EOLhyphen"/>ficers fitly qualified be chosen.</p>
+            <p n="13">XIII. That the Government established without a single person, King or House of Lords in the way of a free Republique, be confirmed by an Act of this present Parliament.</p>
+            <p n="14">XIV. That it be then sent into every County to be subscri<g ref="char:EOLhyphen"/>bed by all persons capable to elect, with their Names, place of Abode, and Addition, to be entred upon the Parliament Roll.</p>
+            <p n="15">
+               <label>The Title of the Subscription to run thus, or after this manner.</label> XV. We whose names are here under subscribed, Ele<g ref="char:EOLhyphen"/>ctors of the Representatives of the County of do give our full assent and consent to the Government established in the way of a free Republique by this present Parliament; And do likewise further desire, condescend, and agree, that the Government so esta<g ref="char:EOLhyphen"/>blished by this present Parliament without a single person, King, or House of Lords, be not altered,
+<pb n="6" facs="tcp:94133:5"/>changed or revoked without the full consent of us the Subscribers or our heires in a lineal or collateral de<g ref="char:EOLhyphen"/>scent, or of such Assigns as shall claim their Estates from or under us or our heires for time to come.</p>
+            <p n="16">XVI. Which being so Subscribed, and returned, and en<g ref="char:EOLhyphen"/>tred upon the Parliament Roll, let an Act of Confir<g ref="char:EOLhyphen"/>mation cloze the Goverment.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
